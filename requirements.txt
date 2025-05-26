@@ -1,0 +1,18 @@
+# Core face recognition and image processing
+insightface
+opencv-python-headless==4.8.0.74
+numpy==1.26.4
+pillow==10.4.0
+
+# Streamlit for app UI
+streamlit==1.32.2
+
+# Tornado (needed by streamlit, compatible version)
+tornado==6.4
+
+# typing-extensions to satisfy pydantic and typing-inspection
+typing-extensions>=4.12.2,<5
+
+# Optional but common dependencies used by insightface or streamlit ecosystem
+pydantic==2.11.5
+typing-inspection==0.4.1

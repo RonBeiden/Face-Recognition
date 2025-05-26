@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.env
+env/
+venv/
+.venv/
+
+# personal images
+test_images/
+train_data/
+
+
