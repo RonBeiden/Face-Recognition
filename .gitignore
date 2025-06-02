@@ -9,8 +9,7 @@ env/
 venv/
 .venv/
 
-# personal images
+# personal data
 test_images/
 train_data/
-
-
+videos/
